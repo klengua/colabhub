@@ -1,0 +1,6 @@
+PASOS PARA INVITAR COLABORADORES A REPO REMOTO
+
+1 crear repositorio en el git hib vacio (sin readme)
+2 crear repisitorio local
+3 cambiar nombre a la rama master por main
+4 configurar conexion remota
